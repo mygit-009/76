@@ -7,10 +7,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/test/76.git
+          uri: https://github.com/mygit-009/76
           search-paths: config
-          username: root
-          passphrase: root
+          username: mygit-009
+          passphrase: zq242424
       label: master
 eureka:
   client:
